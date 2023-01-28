@@ -46,7 +46,7 @@ function Home() {
               We'll be here soon with our new awesome site.
             </div>
             <div className="grid w-10 lg:grid-cols-2 gap-4 min-w-max pt-5">
-              <a href="https://www.facebook.com/bashnepal">
+              <a href="https://www.facebook.com/bashnepal" target="_blank">
                 {" "}
                 <button
                   className="text-white text-lg items-center font-bold py-2 px-4 rounded border-b-0 hover:border-b-4 flex flex-row gap-3"
@@ -65,7 +65,7 @@ function Home() {
                 </button>
               </a>
 
-              <a href="https://www.instagram.com/bashnepal/">
+              <a href="https://www.instagram.com/bashnepal/" target="_blank">
                 <button
                   class="text-white text-lg items-center font-bold py-2 px-4 border-b-0 hover:border-b-4 rounded flex flex-row gap-3"
                   style={{
