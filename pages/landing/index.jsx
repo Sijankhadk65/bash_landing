@@ -38,7 +38,7 @@ function index() {
             <div className="text-5xl text-left font-black">
               Hello Guys!
               <br />
-              We are comming soon...
+              We are coming soon...
             </div>
             <div className="text-2xl pt-5 text-left font-extrabold">
               Our website is currently under development
